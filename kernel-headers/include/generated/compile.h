@@ -1,7 +1,7 @@
 /* This file is auto generated, version 1 */
 /* SMP PREEMPT */
 #define UTS_MACHINE "aarch64"
-#define UTS_VERSION "#1 SMP PREEMPT Tue Mar 5 23:46:43 UTC 2024"
+#define UTS_VERSION "#1 SMP PREEMPT Sat Mar 16 15:18:42 UTC 2024"
 #define LINUX_COMPILE_BY "build-user"
 #define LINUX_COMPILE_HOST "build-host"
-#define LINUX_COMPILER "Android (6875598, based on r399163b) clang version 11.0.5 (https://android.googlesource.com/toolchain/llvm-project 87f1315dfbea7c137aa2e6d362dbb457e388158d), LLD 11.0.5 (/buildbot/tmp/tmpx1DlI_ 87f1315dfbea7c137aa2e6d362dbb457e388158d)"
+#define LINUX_COMPILER "Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.5 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)"
