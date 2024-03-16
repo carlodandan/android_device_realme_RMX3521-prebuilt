@@ -15,7 +15,7 @@
 #define TSK_TI_SCS 88 /* offsetof(struct task_struct, thread_info.shadow_call_stack) */
 #define TSK_STACK 104 /* offsetof(struct task_struct, stack) */
 
-#define THREAD_CPU_CONTEXT 3056 /* offsetof(struct task_struct, thread.cpu_context) */
+#define THREAD_CPU_CONTEXT 3072 /* offsetof(struct task_struct, thread.cpu_context) */
 
 #define S_X0 0 /* offsetof(struct pt_regs, regs[0]) */
 #define S_X1 8 /* offsetof(struct pt_regs, regs[1]) */
